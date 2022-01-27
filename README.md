@@ -1,5 +1,17 @@
 # Coursera_IBM_ML_with_Python
 
+This course dives into the basics of machine learning using an approachable, and well-known programming language, Python. 
+
+In this course, i reviewed two main components:
+First, i learned the purpose of Machine Learning and where it applies to the real world. 
+Second, i got a general overview of Machine Learning topics such as supervised vs unsupervised learning,  model evaluation, and Machine Learning algorithms. 
+
+In this course, i practiced with real-life examples of Machine learning and see how it affects society in many ways.
+
+After few weeks of training, this is what i got.
+1) New skills such as regression, classification, clustering, sci-kit learn and SciPy. 
+2) New projects including cancer detection, predicting economic trends, predicting customer churn, recommendation engines, and many more.
+3) And a certificate in machine learning to prove my competency.
 
 
 ## Skills covered and its notebooks:
@@ -18,6 +30,3 @@
 12. [Collaborative Filtering - Creation of a recommendation system](https://github.com/JennyferWAN/Coursera_IBM_ML_with_Python/blob/d9253c0d8dcbaddc706c0de52fed2e0ab4c63d09/12_S5_Recommentdation_System-Collaborative-Filtering-movies.ipynb).
 13. [Content Based Filtering - Creation of a recommendation system](https://github.com/JennyferWAN/Coursera_IBM_ML_with_Python/blob/ac9ef08f931df2019111d87451656a6f1f1d07cb/13_S5_Recommandation-System-Content-Based-movies.ipynb).
 14. [Final Assignement - Loan](https://github.com/JennyferWAN/Coursera_IBM_ML_with_Python/blob/ac9ef08f931df2019111d87451656a6f1f1d07cb/14_S6_Final_Assignement_ML_Loan.ipynb) Full pipeline + Application of classifications : KNN / Decision tree / SVM / Logistic Regression
-
-
-[![Certificate](https://coursera.org/share/561699ba7fc8df3e94aed3a8b6ed3fdd)](https://coursera.org/share/561699ba7fc8df3e94aed3a8b6ed3fdd)
