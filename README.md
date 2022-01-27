@@ -1,3 +1,5 @@
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JennyferWAN&repo=github-readme-stats)](https://github.com/JennyferWAN/github-readme-stats)
+
 # Coursera_IBM_ML_with_Python
 
 This course dives into the basics of machine learning using an approachable, and well-known programming language, Python. 
