@@ -1,4 +1,4 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JennyferWAN&repo=github-readme-stats)](https://github.com/JennyferWAN/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/JennyferWAN/github-readme-stats)
 
 # Coursera_IBM_ML_with_Python
 
