@@ -20,6 +20,4 @@
 14. [Final Assignement - Loan](https://github.com/JennyferWAN/Coursera_IBM_ML_with_Python/blob/ac9ef08f931df2019111d87451656a6f1f1d07cb/14_S6_Final_Assignement_ML_Loan.ipynb) Full pipeline + Application of classifications : KNN / Decision tree / SVM / Logistic Regression
 
 
-[![Certificate][1]][2]
-
-[1]:  https://coursera.org/share/561699ba7fc8df3e94aed3a8b6ed3fdd
+[![Certificate](https://coursera.org/share/561699ba7fc8df3e94aed3a8b6ed3fdd)](https://coursera.org/share/561699ba7fc8df3e94aed3a8b6ed3fdd)
