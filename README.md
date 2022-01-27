@@ -6,7 +6,7 @@ In this course, i reviewed two main components:
 First, i learned the purpose of Machine Learning and where it applies to the real world. 
 Second, i got a general overview of Machine Learning topics such as supervised vs unsupervised learning,  model evaluation, and Machine Learning algorithms. 
 
-In this course, i practiced with real-life examples of Machine learning and see how it affects society in many ways.
+I practiced with real-life examples of Machine learning and see how it affects society in many ways.
 
 After few weeks of training, this is what i got.
 1) New skills such as regression, classification, clustering, sci-kit learn and SciPy. 
