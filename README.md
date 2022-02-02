@@ -30,3 +30,7 @@ After few weeks of training, this is what i got.
 12. [Collaborative Filtering - Creation of a recommendation system](https://github.com/JennyferWAN/Coursera_IBM_ML_with_Python/blob/d9253c0d8dcbaddc706c0de52fed2e0ab4c63d09/12_S5_Recommentdation_System-Collaborative-Filtering-movies.ipynb).
 13. [Content Based Filtering - Creation of a recommendation system](https://github.com/JennyferWAN/Coursera_IBM_ML_with_Python/blob/ac9ef08f931df2019111d87451656a6f1f1d07cb/13_S5_Recommandation-System-Content-Based-movies.ipynb).
 14. [Final Assignement - Loan](https://github.com/JennyferWAN/Coursera_IBM_ML_with_Python/blob/ac9ef08f931df2019111d87451656a6f1f1d07cb/14_S6_Final_Assignement_ML_Loan.ipynb) Full pipeline + Application of classifications : KNN / Decision tree / SVM / Logistic Regression
+
+
+### Author :
+Jennyfer WAN
